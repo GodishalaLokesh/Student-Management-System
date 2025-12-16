@@ -2,15 +2,7 @@ A simple Student Management System built using Core Java, designed to perform ba
 This project demonstrates strong fundamentals in java programming, object-oriented concepts, and console based applications design.
 
 Features:-
-Add new Student details
-View all students
-Search student by ID
-Update student information
-Delete student records
-Menu-driven console interface
-Clean and structured code
+Add new Student details - View all students - Search student by ID - Update student information - Delete student records - Menu-driven console interface - Clean and structured code
 
-Technologies Used:-
-Java (Core Java)
-  -OOP concepts
-Eclipse IDE
+Technologies Used:- Java (Core Java)
+  -OOP concepts - Eclipse IDE
